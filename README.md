@@ -3,8 +3,6 @@
 
 - 📫Correo **nicolas1212opazo@gmail.com**
 
-- ⚡📄 Experiencias **Solo un proyecto para una empresa externa presentado en la universidad y realizo pequeños trabajos para una empresa de guardias de seguridad.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%c3%a1s-opazo-212852179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-opazo-212852179/" height="30" width="40" /></a>
